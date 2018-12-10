@@ -262,5 +262,7 @@ __pycache__/
 
 # User Define
 *.vcxproj
+*.filters
+*.vcxproj.filters
 *.dll
 *.sln
