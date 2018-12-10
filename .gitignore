@@ -261,6 +261,6 @@ __pycache__/
 *.pyc
 
 # User Define
-*.vcsproj
+*.vcxproj
 *.dll
 *.sln
